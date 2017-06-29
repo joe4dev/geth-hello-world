@@ -5,8 +5,17 @@ Please install **Geth** and **Solidity**:
 * For **Geth**, please follow this [guide](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum) for Windows, OSX, or Linux. 
 * To install **Solidity**, follow this [guide](http://solidity.readthedocs.io/en/develop/installing-solidity.html#binary-packages) for Windows, OSX, or Linux.
 
-# Test your Geth Installation
-Open Terminal and start Geth :
+# Test Your Solidity Installation
+If Solidity is installed, you can open a terminal and check the version:
+
+	solc --version
+
+The output should look like this:
+
+	Version: 0.4.11+commit.68ef5810.Linux.g++
+
+# Test Your Geth Installation
+If Geth is installed, you can open a terminal and start Geth:
 
 	geth --rinkeby --fast
     
