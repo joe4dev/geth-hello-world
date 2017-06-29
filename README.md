@@ -1,6 +1,6 @@
 # Geth Installation 
 
-Please follow this [guide](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum) for installing Geth with Windows, OSX, or Linux. 
+Please follow this [guide](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum) for installing Geth with Windows, OSX, or Linux. To install Solidity, follow this [guide](http://solidity.readthedocs.io/en/develop/installing-solidity.html#binary-packages) for Windows, OSX, or Linux.
 
 # Deploy a Hello World Contract with Geth
 
