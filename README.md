@@ -16,7 +16,7 @@ To gain some Ether's use [Ether faucet](https://www.rinkeby.io/).
 ### Starting Geth Console
 Open Terminal and start Geth :
 
-	geth --rinkeby
+	geth --rinkeby --fast
     
 
 In a new Terminal tab/window, attach to Geth and open the JavaScript Console
