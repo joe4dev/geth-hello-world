@@ -35,4 +35,4 @@ To call the *sayHello()*-Method, execute in the JavaScript Console tab/window:
 
 	aimsHelloWorldContractInstance.sayHello(); // OUTPUT: "Hello World"
     
-If the output is "Hello World" then you have successfully installed geth and you are ready for the AIMS Smart Contract Lab!
+If the output is "Hello World" then you have successfully installed Geth and you are ready for the AIMS Smart Contract Lab!
