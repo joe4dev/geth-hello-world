@@ -21,7 +21,7 @@ Open Terminal and start Geth :
 
 In a new Terminal tab/window, attach to Geth and open the JavaScript Console
 
-	geth attach $HOME/.ethereum/rinkeby/geth.ipc console
+	geth attach $HOME/.ethereum/rinkeby/geth.ipc
     
     
 ### Deploy Hello World Contract
