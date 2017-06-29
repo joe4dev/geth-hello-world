@@ -33,6 +33,6 @@ To call the *sayHello()*-Method, open the JavaScript Console tab/window and exec
 	var abi = [{"constant":true,"inputs":[],"name":"sayHello","outputs":[{"name":"","type":"string"}],"payable":false,"type":"function"},{"inputs":[],"payable":false,"type":"constructor"}];
 	var aimsHelloWorldContractInstance = eth.contract(abi).at("0xEC90Dc181274b3Aa38ec6d1f0d098aFE07D6a6f7");
 
-	aimsHell.sayHello(); // OUTPUT: "Hello World"
+	aimsHelloWorldContractInstance.sayHello(); // OUTPUT: "Hello World"
     
 If the output is "Hello World" then you have successfully installed geth and you are ready for the AIMS Smart Contract Lab.
