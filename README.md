@@ -44,7 +44,7 @@ Within the Geth console and execute:
 A new contract has been created on the Ethereum Blockchain. We now can call the `sayHello()`-Method of the contract.
 
 
-	myContractInstance.sayHello()
+	myContractInstance.sayHello();
  
     
 #### Running example:
@@ -55,7 +55,7 @@ A new contract has been created on the Ethereum Blockchain. We now can call the 
 	var txDeploy = {from:eth.accounts[0], data: bytecode, gas: 1000000}; 
 	var myContractInstance = myContract.new(txDeploy); 
     
-    myContractInstance.sayHello() // OUTPUT: "Hello World"
+    myContractInstance.sayHello(); // OUTPUT: "Hello World"
 
     
     
