@@ -19,8 +19,7 @@ If Geth is installed, you can open a terminal and start Geth:
 
 	geth --rinkeby --fast
     
-
-In a new Terminal tab/window, attach to Geth to open the JavaScript Console
+The synchronization of the blockchain takes a while (~10 minutes). After the synchronization, in a new Terminal tab/window, attach to Geth to open the JavaScript Console
 
 	geth attach $HOME/.ethereum/rinkeby/geth.ipc
 
