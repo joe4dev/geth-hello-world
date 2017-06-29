@@ -26,7 +26,7 @@ In a new Terminal tab/window, attach to Geth and open the JavaScript Console
 
 ### Call *sayHello()*-Method
 
-The [HelloWorld contract](../blob/master/hello-world.sol) has already been deployed. The contract address is *0xEC90Dc181274b3Aa38ec6d1f0d098aFE07D6a6f7*. The transaction for the deployment is [here](https://rinkeby.etherscan.io/tx/0xccdc9e24095e3fc6a54aefccf545063838bf5f9ffe4a7597f2a71ae18649ac9f). 
+The [HelloWorld contract](../master/hello-world.sol) has already been deployed. The contract address is *0xEC90Dc181274b3Aa38ec6d1f0d098aFE07D6a6f7*. The transaction for the deployment is [here](https://rinkeby.etherscan.io/tx/0xccdc9e24095e3fc6a54aefccf545063838bf5f9ffe4a7597f2a71ae18649ac9f). 
 
 To call the *sayHello()*-Method, open the JavaScript Console tab/window and execute:
 
